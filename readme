@@ -3,7 +3,7 @@ To start the application run #python main.py from the root of your folder
 
 # About Application
 This is a very simple todo app that works on any terminal
-The program allows you to add, update,delete,and view your tasks
+The program allows you to add, update,delete,view, and save your tasks to a file
 Running the main.py file will start the application.
 
 # Where to save your tasks
